@@ -1,0 +1,48 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*.old
+*.orig
+*.save
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Config files
+*.env
+
+# Ignore local development scripts
+scripts/
+
+# iOS specific files
+.DS_Store
+*.ipa
+
+# Android specific files
+*.apk
+*.xapk
+*.dex
+*.ap_
+
+# Windows executables
+*.exe
+*.dll
+
