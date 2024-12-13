@@ -1,9 +1,3 @@
-# macOS system files
-.DS_Store
-
-# Node.js dependencies
-node_modules/
-
 # Logs
 *.log
 
@@ -11,10 +5,14 @@ node_modules/
 *.tmp
 *.swp
 
-# IDE/editor specific files
-.vscode/
-.idea/
-*.iml
+# Node.js dependencies
+node_modules/
+
+# CSS preprocessor directories
+.sass-cache/
+
+# macOS system files
+.DS_Store
 
 # Backup files
 *.bak
@@ -26,14 +24,7 @@ node_modules/
 Thumbs.db
 Desktop.ini
 
-# Config files
-*.env
-
-# Ignore local development scripts
-scripts/
-
 # iOS specific files
-.DS_Store
 *.ipa
 
 # Android specific files
