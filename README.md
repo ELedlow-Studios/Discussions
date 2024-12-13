@@ -1,24 +1,17 @@
-# Organization Discussions
+# ELedlow Studios Discussion Hub
 
-Welcome to our organization's discussion repository! This is a space for all members to engage in conversations, ask questions, and share ideas.
+Welcome to the GitHub Pages site for ELedlow Studios' Discussion Hub! This is the central place for our community to engage, share ideas, and collaborate on open-source game development projects.
 
-## Guidelines
-Please follow these guidelines to ensure respectful and productive discussions:
-- Be respectful and considerate of others.
-- Stay on topic and avoid off-topic posts.
-- Do not post personal information or sensitive data.
-- Follow GitHub's community guidelines.
+## Sections
 
-## Getting Started
-- Check out the [Welcome Post](./discussions/welcome.md) to get started.
-- Read through our [Code of Conduct](./CODE_OF_CONDUCT.md).
+- **[About](#about)**: Learn more about ELedlow Studios and our mission.
+- **[Guidelines](#guidelines)**: Understand the rules and guidelines for participating in discussions.
+- **[Get Involved](#get-involved)**: Find out how to join the conversation and contribute.
+- **[Resources](#resources)**: Access important links and resources for further information.
 
-## Categories
-- General
-- Development
-- Support
+## Get Started
 
-## Issue Reports
-Please use issues only for reporting misconduct or administrative concerns related to the discussion forum.
+Visit the [GitHub Discussions](https://github.com/ELedlow-Studios/Discussions/discussions) to start engaging with the community.
 
-Join the conversation and let's make great things happen together!
+&copy; 2024 ELedlow Studios
+
