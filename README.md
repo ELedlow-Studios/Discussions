@@ -22,3 +22,5 @@ Please follow these guidelines to ensure respectful and productive discussions:
 Please use issues only for reporting misconduct or administrative concerns related to the discussion forum.
 
 Join the conversation and let's make great things happen together!
+
+&copy; 2024 ELedlow Studios
